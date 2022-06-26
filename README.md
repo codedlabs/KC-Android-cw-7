@@ -9,13 +9,43 @@
   
   3) في ملف MainActivity, سنقوم بتعريف Arraylist و إضافة كائنات داخل ArrayList
   
-  ### ملاحظة: ترى سويناهم المحاضرة اللي طافت 
+  ### ملاحظة: ترى سويناهم المحاضرة اللي طافت
+  
+  <p dir="rtl">
+الصور: </p>
+
+
+<p dir="rtl">
+<strong><a href="https://ibb.co/tqvvbhx">https://ibb.co/tqvvbhx</a></strong></p>
+
+
+<p dir="rtl">
+<strong><a href="https://ibb.co/16WY4s7">https://ibb.co/16WY4s7</a></strong></p>
+
+
+<p dir="rtl">
+<strong><a href="https://ibb.co/FzvWpJ5">https://ibb.co/FzvWpJ5</a></strong></p>
+
+
+<p dir="rtl">
+<strong><a href="https://ibb.co/QCXBN5h">https://ibb.co/QCXBN5h</a></strong></p>
+
+
+<p dir="rtl">
+<strong><a href="https://ibb.co/Hxr0CYv">https://ibb.co/Hxr0CYv</a></strong></p>
+
+
+<p dir="rtl">
+<strong><a href="https://ibb.co/Gtjk75d">https://ibb.co/Gtjk75d</a></strong></p>
+  
   
   ## الجزء الثاني من التمرين😎:
   ### (إنشاء تصميم الـ ListView)
   ### في هذا الجزء من التمرين سوف نقوم بتصميم العنصر الواحد من الـ ListView:
   <img src="https://cdn.discordapp.com/attachments/740224779730157638/954414689159348264/unknown.png"/>
   <img src="https://cdn.discordapp.com/attachments/740224779730157638/954414721447125083/unknown.png"/>
+  
+ 
   
   ## الجزء الثالث من التمرين🤩:
   ### (إنشاء الـ ArrayAdapter)
